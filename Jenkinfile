@@ -1,0 +1,7 @@
+pipelin1{
+    stages('say Hello world'){
+        steps{
+            echo 'Hello World"
+        }
+    }
+}
